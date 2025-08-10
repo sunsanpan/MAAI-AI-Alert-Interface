@@ -31,4 +31,3 @@ It is designed to monitor **vital signs** and **motion data** in elderly or high
 
 ---
 
-## 📂 Project Structure
